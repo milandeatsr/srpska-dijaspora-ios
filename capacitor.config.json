@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.skyroutes.srpskadijaspora",
+  "appName": "Srpska Dijaspora",
+  "webDir": "www",
+  "server": {
+    "url": "https://test.sky-routes.com/",
+    "cleartext": false
+  }
+}
